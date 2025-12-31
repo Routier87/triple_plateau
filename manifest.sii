@@ -1,0 +1,10 @@
+SiiNunit
+{
+mod_manifest : mod.triple_plateau {
+package_version: "1.00"
+display_name: "Triple remorque plateau"
+author: "routier87"
+category[]: "trailer"
+description: "Remorque triple plateau type road train"
+}
+}
