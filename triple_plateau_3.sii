@@ -1,0 +1,9 @@
+SiiNunit
+{
+trailer_def : trailer.triple_plateau_3 {
+chain_type: "trailer"
+name: "Plateau 3"
+chassis_mass: 6000
+wheel_count: 6
+}
+}
