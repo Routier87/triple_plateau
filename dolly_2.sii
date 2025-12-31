@@ -1,0 +1,10 @@
+SiiNunit
+{
+trailer_def : trailer.dolly_2 {
+chain_type: "dolly"
+name: "Dolly 2"
+chassis_mass: 2000
+wheel_count: 4
+hookups[]: .trailer.triple_plateau_3
+}
+}
